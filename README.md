@@ -1,15 +1,15 @@
-
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/krasovskihia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xamerzaev&style=flat-square&color=blue" alt=""/>
    <h1>
   Welcome!
 </h1>
  </div>
- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/krasovskihia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
  
 
 
