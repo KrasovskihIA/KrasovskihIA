@@ -5,8 +5,12 @@
 <div id="badges" align="center">
   <a href="https://tlgg.ru/LinRuso">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krasovskihia/)
   </a>
+  
+  <a href="[https://tlgg.ru/LinRuso](https://www.linkedin.com/in/krasovskihia/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 
 <div align="center">
