@@ -38,13 +38,7 @@
 
 
  ### :fire: My statistics:
-
-
-        
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrasovskihIA&theme=dark&background=000000)](https://git.io/streak-stats)
-
-    
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?KrasovskihIA=daniilshat&theme=solarized_dark)
 
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrasovskihIA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
