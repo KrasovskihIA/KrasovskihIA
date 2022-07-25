@@ -3,14 +3,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xamerzaev&style=flat-square&color=blue" alt=""/>
    <h1>
   Welcome!
 </h1>
  </div>
 
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrasovskihIA&theme=github)
 
 
 
@@ -38,7 +40,12 @@
 
 
  ### :fire: My statistics:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?KrasovskihIA=daniilshat&theme=solarized_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrasovskihIA&theme=dark&background=000000)](https://git.io/streak-stats)
 
+    
+
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrasovskihIA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
         
 
