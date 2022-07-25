@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/krasovskihia/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
