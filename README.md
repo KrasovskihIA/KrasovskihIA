@@ -1,4 +1,4 @@
- <div id="badges" align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/krasovskihia/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
@@ -20,9 +20,7 @@
         
 ### :man_technologist: About me:
 
-• I consider my soft skills: the ability to easily find a language with others, adaptability. I also easily organize processes within the team. Ability to work in a team
-
-• I am interested in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
+• Python is a developer with experience in creating and optimizing web applications in Django, as well as automating analytical processes. I can work with databases (PostgreSQL, MySQL), RESTful API, Docker and Celery. Experience in developing interactive user interfaces, building predictive models, and optimizing computational tasks.
 
 
 
@@ -36,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Bootstrap" width="40" height="40"/>
 
 
  ### :fire: My statistics:
@@ -47,5 +45,3 @@
 
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrasovskihIA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-        
-
